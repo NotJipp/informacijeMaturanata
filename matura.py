@@ -43,5 +43,5 @@ for svakaOsoba in osobe: # petlja jer postoji više nego jedan učenik (nevjeroj
         spremiSliku.write(slika.content)
     
     print("Slika osobe " + osobaIme + " preuzeta.") # printamo rezultat
-print("\nGotovo, slobodno ugasite script-u klikom tipke enter") # kraj
+print("\nGotovo, slobodno ugasite script-u pritiskom tipke enter") # kraj
 input()
